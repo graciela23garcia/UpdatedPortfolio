@@ -1,0 +1,21 @@
+img {
+    display: block;
+    width: 10%;
+    border-radius: 8px;
+    width: 5px;  
+    height: auto;  
+    text-align: center;  
+    padding: 15px;  
+  }
+  #pictures {
+    height: 400px;
+    width: 500px;
+  }
+  body {
+    background-color: #C0CFBA;
+  }
+
+  nav {
+    background-color: rgb(16, 17, 10);
+  }
+   
